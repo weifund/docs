@@ -4,4 +4,4 @@ Crowdfundrr is a decentralized, open-source, fully transparent, crowdfunding pla
 Provide a fun and simple platform to crowdfund in the new decentralized crypto 2.0 landscape on Ethereum.
 
 ##Our Philosophy
-Clean design, totally decentralized, 100% open-sourced, minimalist, low-to-no fee, light, and reactive.
+Clean design, totally decentralized, 100% open-sourced, minimalist, no fee, light, and reactive.
