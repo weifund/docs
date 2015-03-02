@@ -1,5 +1,5 @@
 ### Our Foundation
-Our philosophy and mission.
+Our philosophy and mission can be found in: 
 philosophy.md
 
 
