@@ -1,7 +1,3 @@
-# docs
-Documentation regarding the Crowdfundrr project
-
-
 ### Our Foundation
 Our philosophy and mission.
 philosophy.md
