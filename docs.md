@@ -4,7 +4,7 @@ philosophy.md
 
 
 ### The  Bounty
-The bounty Crowdfundrr was originally build for.
+The bounty Crowdfundrr was build for originally.
 
 https://forum.ethereum.org/discussion/1779/bounty-crowdfunding-dapp#latest
 
