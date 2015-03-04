@@ -1,6 +1,7 @@
 ### Our Foundation
-Our philosophy and mission can be found in: 
-philosophy.md
+Our philosophy and mission can be found in:
+
+mission.md
 
 
 ### The  Bounty
