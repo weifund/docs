@@ -1,4 +1,4 @@
-# Welcome to Weifund hi
+# Welcome to Weifund
 
 WeiFund is an open platform for crowdfunding campaigns. You can launch a campaign using one of Weifund’s secure smart contract templates (“Campaign Templates”) that we develop, or you can integrate your own smart contracts to create a custom campaign - the details of that integration are outlined below in this documentation. Weifund is built on Ethereum.
 
