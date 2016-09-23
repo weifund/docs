@@ -1,0 +1,1 @@
+We will complete this section in the near future. In short, your contract and your campaign data specs need to be registered in the WeiFund registry. Please check back here soon or message us at [mail@weifund.io](mail@weifund.io) if you have an immediate need. 

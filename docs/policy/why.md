@@ -1,0 +1,3 @@
+If your campaign is not listed on the WeiFund portal, it is simply because the WeiFund team for whatever reason does not feel they need to list your campaign. This does not mean your campaign is necessarily invalid, bad or good in any way. It simply means we do not feel we need to list it at this time.
+
+If your campaign is not listed on the WeiFund client, it is because your campaign or campaign data does not conform to the WeiFund contract and data specifications. It may also mean that your contracts either do not exist or were not successfully registered with the WeiFund campaign contract registry. Please consult the documentation on campaign specification and contract design for more information.

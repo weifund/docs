@@ -1,0 +1,1 @@
+If you have any comments, concerns, or even information regarding attacks or hacks on happening on the WeiFund platform. Please inform the Ethereum community through the reddit channels - [r/ethereum](https://www.reddit.com/r/ethereum/) and by emailing Weifund at [mail@weifund.io](mail@weifund.io). We greatly appreciate your comments, concerns and reports.

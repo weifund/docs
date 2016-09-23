@@ -1,0 +1,2 @@
+
+The WeiFund team is actively involved in the Ethereum community’s work on security best practices. Together with the Security Team at ConsenSys, these best practices are used to develop processes and tools that we apply to the development of user interface code and the development of our Campaign Templates. These approaches also inform the assessment of the custom campaigns integrated onto the platform.
