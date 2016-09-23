@@ -1,4 +1,4 @@
-The WeiFund platform allows campaigns to register additional cosmetic non-blockchain campaign data, this is data that tightly conforms to the WeiFund campaign data specification [provide link].
+The WeiFund platform allows campaigns to register additional cosmetic non-blockchain campaign data, this is data that tightly conforms to the WeiFund [campaign data specification](http://weifund.readthedocs.io/en/latest/specifications/campaign_data_specifications/).
 
 ```
 import "Owner.sol";

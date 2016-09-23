@@ -71,7 +71,7 @@ uint256 (unsigned integer 256 bit)
 A constant method with a single uint256 return output that describes the campaign expiry in UNIX timestamp format.
 
 **Example** <br/>
-999830290 [replace with better example]
+999830290 
 
 ##name():
 The campaign name humanizes the campaign contract so that contributors and auditors can get a sense of what the campaign registered is.

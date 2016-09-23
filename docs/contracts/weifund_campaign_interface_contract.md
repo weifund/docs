@@ -50,6 +50,6 @@ event BeneficiaryPayoutClaimed (address _payoutDestination, uint256 _payoutAmoun
 }
 ```
 ##Contract Overview
-The WeiFund Interface contract follows the WeiFund campaign contract specification [provide link]. Please see that for details on method information.
+The WeiFund Interface contract follows the WeiFund campaign contract specification. Please see that for details on method information.
 
 The contract also contains a range of events to enhance user experience. This includes a “ContributionMade” event which should be fired when a contribution was made successfully, “RefundPayoutClaimed” which should be fired when a refund was claimed successfully and a “BenificaryPayoutClaimed” which should be fired when the campaign payout was transacted successfully.
