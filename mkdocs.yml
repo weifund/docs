@@ -8,24 +8,10 @@ pages:
 - Campaigns:
   - Contribute: 'campaigns/contributing.md'
   - Run A Campaign: 'campaigns/running.md'
-- Security:
-  - Overview: 'security/overview.md'
-  - Smart Contract Vetting: 'security/smartcontract_vetting.md'
-  - Contract Security: 'security/contract_security.md'
-  - Defensive Practices: 'security/defensive_practices.md'
-  - Anti-spoofing Mechanisms: 'security/anti-spoof.md'
-  - Reporting Concerns and Attacks: 'security/reporting.md'
-- Campaign Specifications:
-  - Overview: 'specifications/overview.md'
-  - Contract Interface: 'specifications/campaign_interface_contract.md'
-  - Campaign Data Specifications: 'specifications/campaign_data_specifications.md'
-  - Registration: 'specifications/registration.md'
-- Contributing to Weifund:
-  - Github: 'contributing/github.md'
-- Community:
-  - Community: 'community/team_community.md'
+- Contract Details: 'contracts.md'
+- Contributing to Weifund: 'contributing/github.md'
+- Community: 'community/team_community.md'
 - Policies:
-  - Why is my Campaign not listed: 'policy/why.md'
   - Terms & Licences: 'policy/policies.md'
   - Privacy Policy: 'policy/privacy_policy.md'
 - Glossary: 'glossary.md'
