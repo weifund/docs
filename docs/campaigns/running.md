@@ -8,16 +8,11 @@ A beneficiary is the recipient of funds from a successful campaign on Weifund. B
 
 To transfer the funds from a campaign to its beneficiary, a payout transaction must be sent to the campaign smart contract system. Only the owner of the beneficiary account can withdraw the campaign funds.
 
-**To Payout Funds to a Beneficiary**
-
-1. Select the campaign you would like to payout
-2. Check if the payout button is available
-3. If it is available, click “Payout to Beneficiary”
-4. Select the payout settings
-5. Then click, “Review Payout”
-6. Review the payout information
-7. Then click, “Payout Campaign”
+The beneficiary account is typically a multisignature contract. Generate the
+payout transaction, obtain the required signatures, and send the
+transaction to the network.
 
 ## Handling the Unexpected
 
-If something has gone wrong with your campaign, the beneficiary can choose to withdraw all funds from the campaign contract at any time.
+If something has gone wrong with your campaign, the beneficiary can choose to withdraw all funds from the campaign contract at any time by sending a payout
+transaction from the beneficiary account.
