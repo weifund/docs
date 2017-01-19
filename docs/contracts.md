@@ -12,6 +12,8 @@ Campaigns have three transaction types:
 
 Campaigns are in stage `CrowdfundOperational` until they expire, hit their funding goal, or hit their funding cap. Campaigns that expired before reaching their goal are in stage `CrowdfundFailed`, which allows refunds. Campaigns that hit their funding goal or cap are in stage `CrowdfundSuccess`, which prevents further contributions.
 
+![Campaign State Machine Diagram](../images/weifund-standardcampaign-state-machine-diagram.jpg)
+
 ### Early Success
 
 Some campaigns have criteria other than the amount raised that determine when a campaign ends. For instance, token launches often have a cap on how many tokens will be issued. To handle this, campaigns can have an `Enhancer`. `Enhancer.notate` is like a contribution callback that receives information about the contributor, amount, and block. The return value from `Enhancer.notate` is used to trigger early success.
@@ -41,6 +43,8 @@ Campaigns that issue tokens to contributors can use an enhancer that issues toke
 Each factory is a `PrivateServiceRegistry` that manages an array of created contracts and their indices to make it easy to iterate through the contracts that have been created from the factory.
 
 ## Registries
+
+![Registries Diagram](../images/weifund-registry-diagram.jpg)
 
 `CurationRegistry`: Lets anyone approve campaigns. Campaign lists can use hardcoded or user-specified curators to display curated campaigns.
 
