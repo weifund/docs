@@ -1,4 +1,4 @@
-![WeiFund Bug Bounty Logo](../images/weifund-bug-bounty.png)
+![WeiFund Bug Bounty Logo](images/weifund-bug-bounty.png)
 
 # Welcome to Weifund
 

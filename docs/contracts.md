@@ -12,7 +12,7 @@ Campaigns have three transaction types:
 
 Campaigns are in stage `CrowdfundOperational` until they expire, hit their funding goal, or hit their funding cap. Campaigns that expired before reaching their goal are in stage `CrowdfundFailed`, which allows refunds. Campaigns that hit their funding goal or cap are in stage `CrowdfundSuccess`, which prevents further contributions.
 
-![Campaign State Machine Diagram](../images/weifund-standardcampaign-state-machine-diagram.jpg)
+![Campaign State Machine Diagram](images/weifund-standardcampaign-state-machine-diagram.jpg)
 
 ### Early Success
 
@@ -44,7 +44,7 @@ Each factory is a `PrivateServiceRegistry` that manages an array of created cont
 
 ## Registries
 
-![Registries Diagram](../images/weifund-registry-diagram.jpg)
+![Registries Diagram](images/weifund-registry-diagram.jpg)
 
 `CurationRegistry`: Lets anyone approve campaigns. Campaign lists can use hardcoded or user-specified curators to display curated campaigns.
 
