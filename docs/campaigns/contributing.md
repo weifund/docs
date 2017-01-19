@@ -7,7 +7,7 @@ file from another Ethereum app, WeiFund can open that file to reuse it.
 
 ## Get Ether
 
-WeiFund contributions are paid in ether, the currency of the Ethereum blockchain. The Ethereum network also collects a small fee (usually less than 0.10 USD) to send transactions. We recommend using Coinbase to buy ether. From there, you can send the either to your lightwallet address.
+WeiFund contributions are paid in ether, the currency of the Ethereum blockchain. The Ethereum network also collects a small fee (usually less than 0.10 USD) to send transactions. We recommend using Coinbase to buy ether. From there, you can send the ether to your lightwallet address.
 
 For some people in certain jurisdictions or for those wanting to acquire a larger amount of ether, you may want to use one of these exchanges:
 
