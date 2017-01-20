@@ -6,13 +6,13 @@ Last Update Posted:
 
 ##1. Introduction
 
-1.1 WeiFund recognizes that people who use WeiFund value their privacy. This Privacy Policy details important information regarding the collection, use and disclosure of User information collected on the WeiFund website located at [https://weifund.io/](https://weifund.io/) and [http://weifund-demo.surge.sh/](http://weifund-demo.surge.sh/)  (the "Sites"), and any other features, tools, materials, or other services (including co-branded or affiliated services) offered from time to time by WeiFund  (the “Service”). WeiFund provides this Privacy Policy to help you understand how your personal information is used by us and your choices regarding our use of it.
+1.1 WeiFund recognizes that people who use WeiFund value their privacy. This Privacy Policy details important information regarding the collection, use and disclosure of User information collected on the WeiFund website located at [https://weifund.io/](https://weifund.io/) and [http://weifund.surge.sh/](http://weifund.surge.sh/)  (the "Sites"), and any other features, tools, materials, or other services (including co-branded or affiliated services) offered from time to time by WeiFund  (the “Service”). WeiFund provides this Privacy Policy to help you understand how your personal information is used by us and your choices regarding our use of it.
 
 1.2 This Privacy Policy should be read in conjunction with our Terms of Use. By accessing the Service, you are consenting to the information collection and use practices described in this Privacy Policy.
 
 1.3 Your use of the Service and any personal information you provide through the Service remains subject to the terms of this Privacy Policy and our Terms of Use, as each may be updated from time to time.
 
-1.4 Any questions, comments or complaints that you might have should be emailed to report@WeiFund.io with subject line appendix PRIVACY:
+1.4 Any questions, comments or complaints that you might have should be emailed to mail@WeiFund.io with subject line appendix PRIVACY:
 
 ##2. Information We Collect
 
@@ -63,4 +63,4 @@ Brooklyn, NY 11206
 
 9.1 This Privacy Policy may be revised periodically and this will be reflected by the "Last update posted" date above. Please revisit this page to stay aware of any changes. Your continued use of the Service constitutes your agreement to this Privacy Policy and any future revisions.
 
-9.2 Contact Information: [report@weifund.io](report@weifund.io)
+9.2 Contact Information: [mail@weifund.io](mail@weifund.io)
