@@ -38,6 +38,10 @@ BalanceClaim is a risk-mitigation strategy for refunds. Instead of sending refun
 
 Campaigns that issue tokens to contributors can use an enhancer that issues tokens for each contribution. The enhancer is set as the `issuer` of the token, which is allowed to send `transfer` messages to the token that transfer newly created tokens to the recipient. These tokens are frozen until the specified `freezePeriod` has passed. Once the specified `lastIssuance` block has passed, the issuer cannot issue any more tokens, so the supply is permanently fixed.
 
+## Verifier
+
+Verifier contracts are used to manage token launches that require a whitelist of verified contributors. The verifier owner has permission to approve new accounts, and the enhancer for campaigns with a whitelist asks the verifier if each contributor is approved.
+
 ## Factories
 
 Each factory is a `PrivateServiceRegistry` that manages an array of created contracts and their indices to make it easy to iterate through the contracts that have been created from the factory.
