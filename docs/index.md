@@ -7,4 +7,4 @@ WeiFund is a toolkit for running crowdfunding campaigns on the Ethereum blockcha
 # Our Approach to Smart Contract Readiness
 
 Developing secure smart contract systems requires a particular approach to software development. WeiFund has always strived to produce throughly vetted contracts for users of our systems. You can read more about WeiFund's approach to contract readiness [here](https://media.consensys.net/shaping-crowdfund-rollout-readiness-at-weifund-30149a0b0f45#.5k91wcpml).
-For the details on our current contract readiness you can review documentation in github [here](https://github.com/weifund/weifund-contracts/blob/master/docs/contract-readiness.md)
+For the details on our current contract readiness you can review documentation in github [here](https://github.com/weifund/weifund-contracts/blob/master/docs/contract-readiness.md).
