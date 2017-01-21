@@ -109,7 +109,7 @@ Notwithstanding the parties' decision to resolve all disputes through arbitratio
 
 **12.6 30-Day Right to Opt Out**
 
-You have the right to opt-out and not be bound by the arbitration and class action waiver provisions set forth above by sending written notice of your decision to opt-out to the following address: WeiFund ℅ ConsenSys, 49 Bogart Street, Brooklyn NY 11206 and via email at report@WeiFund.io with subject line LEGAL OPT OUT. The notice must be sent within 30 days of September 6, 2016 or your first use of the Service, whichever is later, otherwise you shall be bound to arbitrate disputes in accordance with the terms of those paragraphs. If you opt-out of these arbitration provisions, WeiFund also will not be bound by them.
+You have the right to opt-out and not be bound by the arbitration and class action waiver provisions set forth above by sending written notice of your decision to opt-out to the following address: WeiFund ℅ ConsenSys, 49 Bogart Street, Brooklyn NY 11206 and via email at mail@WeiFund.io with subject line LEGAL OPT OUT. The notice must be sent within 30 days of September 6, 2016 or your first use of the Service, whichever is later, otherwise you shall be bound to arbitrate disputes in accordance with the terms of those paragraphs. If you opt-out of these arbitration provisions, WeiFund also will not be bound by them.
 
 **12.7 Changes to this Section**
 
