@@ -12,6 +12,7 @@ pages:
 - Contributing to Weifund: 'contributing/github.md'
 - Community: 'community/team_community.md'
 - Policies:
-  - Terms & Licences: 'policy/policies.md'
+  - Terms of Use: 'policy/policies.md'
   - Privacy Policy: 'policy/privacy_policy.md'
+  - License: 'policy/license.md'
 - Glossary: 'glossary.md'
